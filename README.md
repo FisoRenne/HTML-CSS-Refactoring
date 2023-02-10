@@ -1,1 +1,1 @@
-# Module-Challenge1
+# Module-Challenge1 - made index.html accessible
